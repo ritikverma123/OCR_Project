@@ -1,5 +1,8 @@
 # OCR_Project
 
+Live URL Link-
+https://ocr-text.streamlit.app/
+
 Objective-
 Develop and deploy a web-based prototype that demonstrates the ability to perform Optical
 Character Recognition (OCR) on an uploaded image (in picture format) containing text in both
