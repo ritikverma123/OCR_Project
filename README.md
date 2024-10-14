@@ -42,3 +42,7 @@ Task 3: Deployment
 ○ Deploy the web application on platforms like Hugging Faces, Streamlit Sharing,
 or any other suitable platform.
 ○ Ensure the application is accessible via a public URL.
+
+pip freeze > requirements.txt
+C:\Users\ankesh verma\OneDrive\Desktop\OCR
+python -m streamlit run OCR_Project.py
